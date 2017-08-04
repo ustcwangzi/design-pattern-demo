@@ -7,6 +7,6 @@ package com.wz.factory.simplefactory;
 public class CarTest {
     public static void main(String[] args) {
         SimpleFactory factory = new SimpleFactory();
-        factory.getCar("red").carName();
+        factory.getCar("red");
     }
 }
