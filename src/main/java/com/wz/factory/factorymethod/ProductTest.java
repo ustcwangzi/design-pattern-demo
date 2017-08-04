@@ -7,6 +7,6 @@ package com.wz.factory.factorymethod;
 public class ProductTest {
     public static void main(String[] args) {
         ProductFactory factory = new ProductFactoryA();
-        factory.getProduct().create();
+        factory.getProduct().productName();
     }
 }

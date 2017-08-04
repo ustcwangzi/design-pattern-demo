@@ -8,7 +8,6 @@ public class Leader {
     Employee employee = new Employee();
 
     public void method(){
-        System.out.println("Leader call Employee...");
         employee.method();
     }
 }

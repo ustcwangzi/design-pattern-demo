@@ -5,7 +5,7 @@ package com.wz.factory.factorymethod;
  */
 public class ProductA implements Product {
     @Override
-    public void create() {
+    public void productName() {
         System.out.println("ProductA ...");
     }
 }
