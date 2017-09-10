@@ -5,7 +5,7 @@ package com.wz.delegate;
  */
 public class Leader {
 
-    Employee employee = new Employee();
+    private Employee employee = new Employee();
 
     public void method(){
         employee.method();
