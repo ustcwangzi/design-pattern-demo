@@ -8,6 +8,14 @@
     <artifactId>design-pattern-demo</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <developers>
+        <developer>
+            <name>wangzi</name>
+            <email>ustcwangzi@foxmail.com</email>
+            <url>https://github.com/ustcwangzi/design-pattern-demo.git</url>
+        </developer>
+    </developers>
+
     <properties>
         <java.version>1.8</java.version>
         <cglib.verion>3.2.5</cglib.verion>

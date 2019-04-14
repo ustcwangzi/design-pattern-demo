@@ -10,3 +10,7 @@ design-pattern-demo：设计模式
 - prototype：原型模式
 - template：模板模式
 - adapter：适配器模式
+- singleton.HungerSingleton：饿汉式单例
+- singleton.LazySingleton：懒汉式单例
+- singleton.LazyHolderSingleton：静态内部类单例
+
